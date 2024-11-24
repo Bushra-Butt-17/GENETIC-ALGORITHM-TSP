@@ -26,7 +26,7 @@ To set up and run the project, follow the steps below.
 ### 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/GENETIC-ALGORITHM-TSP.git
+git clone https://github.com/Bushra-Butt-17/GENETIC-ALGORITHM-TSP.git
 cd GENETIC-ALGORITHM-TSP
 ```
 
