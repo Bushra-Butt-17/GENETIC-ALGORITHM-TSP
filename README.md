@@ -3,6 +3,7 @@
 
 # **Genetic Algorithm for Traveling Salesman Problem (TSP)**
 
+
 ## **Overview**
 
 The **Genetic Algorithm for TSP** is an implementation of a **genetic algorithm** (GA) used to solve the **Traveling Salesman Problem (TSP)**. The TSP is a classical optimization problem that requires finding the shortest possible route that visits each city once and returns to the starting city. Given its NP-hard nature, the TSP is computationally expensive to solve for large numbers of cities using exact methods. Genetic algorithms offer an efficient heuristic approach to finding near-optimal solutions.
