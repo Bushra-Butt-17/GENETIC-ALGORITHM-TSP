@@ -12,6 +12,8 @@ Through **selection**, **crossover**, **mutation**, and **elitism**, this projec
 
 ## 🌟 **Features**
 
+
+
 - 🗺️ **Dynamic Distance Matrix:** Automatically generates random city distances or allows custom input.
 - 🧑‍🤝‍🧑 **Population-Based Evolution:** Starts with a population of random routes that evolve using GA techniques.
 - 🎯 **Roulette Wheel Selection:** Ensures individuals with higher fitness are more likely to reproduce.
